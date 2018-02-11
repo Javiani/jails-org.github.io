@@ -1,0 +1,9 @@
+{
+  "name": "jails-org.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Javiani/jails-org.github.io.git",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
